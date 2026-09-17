@@ -95,7 +95,7 @@ calcular o que poderiamos chamar fluxo instantáneo. Deste xeito, o que ocorre �
 que ese fluxo instantáneo vai variando: ora vai do primeiro ao segundo medio,
 ora segue o camiño inverso, pero non existe un fluxo neto cara o aire, e o que
 se manifesta é a reflexión total da luz. Pero iso é no estado estacionario, no
-transitorio correspondente o inicio da chegada da luz a interface, parte dela a
+transitorio correspondente ao inicio da chegada da luz a interface, parte dela a // Non estou seguro, o -> ao
 traspasa a fronteira e forma a cola evanescente que se mantén no tempo.
 
 A proba de que unha onda evanescente ten enerxía é o fenómeno de reflexión
@@ -124,7 +124,7 @@ simplemente unha parte da onda viaxeira que se propaga dentro da fibra, pero
 existen razóns para distinguir as partes da onda que se propagan dentro e fóra
 do núcleo. En primeiro lugar, descríbense matematicamente de xeito diferente:
 dentro do núcleo temos unha función oscilatoria e no revestimento unha función
-decaínte. Por outra banda, pódense fabricar dispositivos como acopladores ou
+minguante. Por outra banda, pódense fabricar dispositivos como acopladores ou // decaínte non figura na RAG, cambiado por minguante. Aberto a suxestións
 sensores en fibras ópticas nos que a onda evanescente ten un papel esencial. 
 
 Un terceiro tipo de configuración onde aparecen ondas evanescentes é aquel que
